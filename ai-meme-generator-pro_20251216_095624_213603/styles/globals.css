@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  font-family: inherit;
+}
